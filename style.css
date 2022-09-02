@@ -1,0 +1,11 @@
+.form{
+    position: relative;
+}
+
+.icon{
+    position: absolute;
+    top: calc(30%);
+    left:180px ;
+    
+}
+
